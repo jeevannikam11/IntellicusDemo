@@ -1,0 +1,7 @@
+Steps to execute project
+
+1. Download & Extract zip file
+2. Open Eclipse (Mars J2EE or any Equivalent) having TestNG and Maven configured in it
+3. Import existing maven project and provide path
+4. Once done with Maven clean and Maven Install
+5. Run with TestNG.xml
